@@ -1,0 +1,38 @@
+﻿body {
+    background-color: darkgoldenrod;
+    
+}
+
+h1 {
+    color: white;
+    background-color: darkgoldenrod;
+    border: 3px solid white;
+    height: 50px;
+}
+form {
+    background-color: midnightblue;
+    color: yellow;
+    width: 340px;
+    height:400px;
+}
+label{
+    width:100px;
+    display:inline-block;
+}
+
+
+input {
+    background-color: azure;
+   }
+
+button, input[type="button"] {
+        background-color: red;
+        border: 3px solid red;
+        
+        
+    }
+    button, input[type="submit"] {
+        background-color: green;
+        border: 3px solid green;
+        margin-left: 100px
+    }
